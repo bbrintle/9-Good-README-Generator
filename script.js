@@ -66,7 +66,7 @@ function generateREADMEText(answers){
 
 ## Table of Contents
 1. [ Description ](#desc)
-2. [ Insallation ](#install)
+2. [ Installation ](#install)
 3. [ Usage ](#usage)
 4. [ License ](#lic)
 5. [ Contributing ](#contrib)
@@ -99,7 +99,8 @@ ${answers.testInfo}
     
 <a name="quest"></a>
 ## 7. Questions
-https://www.github.com/${answers.gitHubUserName}
+Please visit my GitHub to view all of my work:\n
+https://www.github.com/${answers.gitHubUserName} \n
 Contact me at: ${answers.userEmail}`;
 }
     

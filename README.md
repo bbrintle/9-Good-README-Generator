@@ -1,8 +1,8 @@
-# Testing
+# Title Goes Here
 
 ## Table of Contents
 1. [ Description ](#desc)
-2. [ Insallation ](#install)
+2. [ Installation ](#install)
 3. [ Usage ](#usage)
 4. [ License ](#lic)
 5. [ Contributing ](#contrib)
@@ -11,15 +11,15 @@
     
 <a name="desc"></a>
 ## 1. Description
-description
+Description of Project ehre
     
 <a name="install"></a>
 ## 2. Installation
-install
+Installation instructions here
     
 <a name="usage"></a>
 ## 3. Usage
-usage
+Usage information here
     
 <a name="lic"></a>
 ## 4. License
@@ -27,13 +27,16 @@ MIT
     
 <a name="contrib"></a>
 ## 5. Contributing
-contrib
+No Guidelines needed
     
 <a name="test"></a>
 ## 6. Tests
-test
+Test instructions here
     
 <a name="quest"></a>
 ## 7. Questions
-https://www.github.com/bbrintle
+Please visit my GitHub to view all of my work:
+
+https://www.github.com/bbrintle 
+
 Contact me at: bbrintle@gmail.com
