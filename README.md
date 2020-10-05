@@ -14,6 +14,7 @@ When creating an open source project on GitHub, it is important to have a qualit
 <a name="install"></a>
 ## 2. Installation
 Make sure to have the package.json file in the folder then type "npm install" in your terminal. The neccessary files will install automatically.
+script.js file must be ran using node.js from the ./assets/ folder
     
 <a name="usage"></a>
 ## 3. Usage
