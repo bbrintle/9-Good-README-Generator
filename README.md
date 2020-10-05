@@ -18,7 +18,8 @@ script.js file must be ran using node.js from the ./assets/ folder
     
 <a name="usage"></a>
 ## 3. Usage
-Answer each question as it appears. Be as descriptive as possible. Once you have finished asnwering the question, press 'enter' to go to the next question. Once complete, you will be informed that the file has been successfully created. Go into the 'createdFile' folder and your new README.md file will be ready for you.
+Answer each question as it appears. Be as descriptive as possible. Once you have finished answering the question, press 'enter' on your keyboard to go to the next question. Once all questions have been completed, you will be informed that the file has been successfully created. Go into the 'createdFile' folder and your new README.md file will be ready for you.
+<br>
 <img src="./assets/video/how-to-gif.gif">
 
     
