@@ -18,7 +18,7 @@ Make sure to have the package.json file in the folder then type "npm install" in
     
 <a name="usage"></a>
 ## 3. Usage
-
+![How to Use](./assets/video/Good-README-Generator_Video.mp4)
 
 <a name="visual"></a>
 ## 4. Visuals
