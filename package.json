@@ -1,0 +1,26 @@
+{
+  "name": "9-good-readme-generator",
+  "version": "1.0.0",
+  "description": "Generates a good README .md file",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbrintle/9-Good-README-Generator.git"
+  },
+  "keywords": [
+    "generate",
+    "README"
+  ],
+  "author": "Blake Brintle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbrintle/9-Good-README-Generator/issues"
+  },
+  "homepage": "https://github.com/bbrintle/9-Good-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
