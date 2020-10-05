@@ -107,7 +107,7 @@ Contact me at: ${answers.userEmail}`;
 getUserInfo()
     .then(function(answers){
         const text = generateREADMEText(answers);
-        return writeFileAsync("README.md", text);
+        return writeFileAsync("./README.md", text);
     })
     .then(function(){
         console.log("Successfully created README file")
