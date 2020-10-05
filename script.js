@@ -62,46 +62,45 @@ function getUserInfo(){
 };
 
 function generateREADMEText(answers){
-    return `
-    # ${answers.title}
+    return `# ${answers.title}
 
-    ## Table of Contents
-    1. [ Description ](#desc)
-    2. [ Insallation ](#install)
-    3. [ Usage ](#usage)
-    4. [ License ](#lic)
-    5. [ Contributing ](#contrib)
-    6. [ Tests ](#test)
-    7. [ Questions ](#quest)
+## Table of Contents
+1. [ Description ](#desc)
+2. [ Insallation ](#install)
+3. [ Usage ](#usage)
+4. [ License ](#lic)
+5. [ Contributing ](#contrib)
+6. [ Tests ](#test)
+7. [ Questions ](#quest)
     
-    <a name="desc"></a>
-    ## 1. Description
-    ${answers.desc}
+<a name="desc"></a>
+## 1. Description
+${answers.desc}
     
-    <a name="install"></a>
-    ## 2. Installation
-    ${answers.installInfo}
+<a name="install"></a>
+## 2. Installation
+${answers.installInfo}
     
-    <a name="usage"></a>
-    ## 3. Usage
-    ${answers.usageInfo}
+<a name="usage"></a>
+## 3. Usage
+${answers.usageInfo}
     
-    <a name="lic"></a>
-    ## 4. License
-    ${answers.license}
+<a name="lic"></a>
+## 4. License
+${answers.license}
     
-    <a name="contrib"></a>
-    ## 5. Contributing
-    ${answers.contrib}
+<a name="contrib"></a>
+## 5. Contributing
+${answers.contrib}
     
-    <a name="test"></a>
-    ## 6. Tests
-    ${answers.testInfo}
+<a name="test"></a>
+## 6. Tests
+${answers.testInfo}
     
-    <a name="quest"></a>
-    ## 7. Questions
-    https://www.github.com/${answers.gitHubUserName}
-    Contact me at: ${answers.userEmail}`;
+<a name="quest"></a>
+## 7. Questions
+https://www.github.com/${answers.gitHubUserName}
+Contact me at: ${answers.userEmail}`;
 }
     
 getUserInfo()
