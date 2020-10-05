@@ -4,9 +4,8 @@
 1. [ Description ](#desc)
 2. [ Installation ](#install)
 3. [ Usage ](#usage)
-4. [ Visuals ](#visual)
-5. [ License ](#lic)
-6. [ Questions ](#quest)
+4. [ License ](#lic)
+5. [ Questions ](#quest)
     
 <a name="desc"></a>
 ## 1. Description
@@ -18,21 +17,15 @@ Make sure to have the package.json file in the folder then type "npm install" in
     
 <a name="usage"></a>
 ## 3. Usage
-![How to Use](./assets/video/Good-README-Generator_Video.mp4)
-
-<a name="visual"></a>
-## 4. Visuals
-<a href="https://github.com/bbrintle/9-Good-README-Generator">Visit GitHub Repository</a>
-<br>
-<img src=".#">
+<img src="./assets/video/how-to-gif.gif">
     
 <a name="lic"></a>
-## 5. License
+## 4. License
 MIT
     
 
 <a name="quest"></a>
-## 6. Questions
+## 5. Questions
 Please visit my GitHub to view all of my work:
 https://www.github.com/bbrintle 
 
