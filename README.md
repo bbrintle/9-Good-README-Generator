@@ -20,7 +20,6 @@ script.js file must be ran using node.js from the ./assets/ folder
 ## 3. Usage
 <img src="./assets/video/how-to-gif.gif">
 
-<img src="./assets/video/createdREADME.PNG">
     
 <a name="lic"></a>
 ## 4. License
